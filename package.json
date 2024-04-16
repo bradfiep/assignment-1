@@ -1,0 +1,18 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "Assigment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Payton Bradfield",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "assigment-1"
+  },
+  "keywords": [
+    "ASCII"
+  ]
+}
